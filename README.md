@@ -8,6 +8,7 @@ and a Prolog Jupyter kernel preinstalled, heavily based on
 ## Quick Start
 
 **Example 1:**
+
 This command pulls the `lcrergo/jupylog` image from Docker Hub if not already
 downloaded. Then a container is started binding the container port `8888` (the
 default for jupyter) to port `10000` in the host machine:
